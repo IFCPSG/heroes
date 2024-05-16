@@ -6,3 +6,4 @@
 * Loky
 * Pandemonium
 * Zork
+* Doom
