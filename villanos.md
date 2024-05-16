@@ -8,3 +8,4 @@
 * Doom
 * Flash reverso
 * tio xungo
+* Hulk rojo
