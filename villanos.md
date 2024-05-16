@@ -4,3 +4,5 @@
 * Lex Luthor
 * Ultron
 * Loky
+* Pandemonium
+* Zork
