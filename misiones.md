@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros
 4. Buscando nuevo armamento y poderes
 5. buscando nuevos aliados
+6. Piedras magics
