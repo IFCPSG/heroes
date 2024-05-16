@@ -4,4 +4,5 @@
 2. Crear la liga de la justicia
 4. Buscando nuevo armamento y poderes
 5. buscando nuevos aliados
-6. Piedras magics
+6. Piedras magicas
+7. Escudos protectores
